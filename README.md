@@ -2,7 +2,7 @@
 
 ## 下载
 
-请到 [GitHub Releases](https://github.com/liuxiang8013-star/daxiang-ai-3d-knowledge-city/releases/latest) 下载 `大向AI-3D知识之城管理系统.zip`，完整解压后按下方步骤使用。**不要点 GitHub 的“Code → Download ZIP”**；仓库主页只放使用文档，安装程序在 Releases 附件里。
+请从 [GitHub Releases 下载 Windows 安装包](https://github.com/liuxiang8013-star/daxiang-ai-3d-knowledge-city/releases/latest/download/Daxiang-AI-3D-Knowledge-City-Windows.zip)（文件名 `Daxiang-AI-3D-Knowledge-City-Windows.zip`），完整解压后按下方步骤使用。**不要点 GitHub 的“Code → Download ZIP”**；仓库主页只放使用文档，安装程序在 Releases 附件里。
 
 首发包 SHA-256：`D27A1C4BF1E055F160F5F2A04DE854E65C944EDDC2258E6F0F130DA989499A66`。下载后可在 PowerShell 中用 `Get-FileHash -Algorithm SHA256 -LiteralPath '下载的ZIP完整路径'` 核对。
 
